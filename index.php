@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1> this is for change< h1>
+<h1> new changes< h1>
 
 <?php
 echo "Hello World!";
