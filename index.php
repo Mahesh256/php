@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1> this is for test only< h1>
+<h1> hello world< h1>
 
 <?php
 echo "Hello World!";
